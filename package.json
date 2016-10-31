@@ -27,7 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "async": "git://github.com/caolan/async.git",
-    "benchmark": "^2.1.1",
+    "benchmark": "^2.1.2",
     "bluebird": "^3.4.1",
     "changelog-generator": "0.0.4",
     "codecov.io": "^0.1.6",
